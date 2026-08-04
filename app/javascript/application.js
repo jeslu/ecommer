@@ -4,4 +4,7 @@ import "./controllers"
 import 'flowbite';
 import 'flowbite-datepicker';
 import 'flowbite/dist/datepicker.turbo.js';
+import "flowbite/dist/flowbite.turbo.js";
+import 'jquery-ujs';
+
 
